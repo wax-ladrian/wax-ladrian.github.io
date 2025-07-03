@@ -29,7 +29,7 @@ author:
   location         : "Madison, WI, USA" # Location of the author
   employer         : "University of Wisconsin-Madison" # Employer of the author
   uri              : # URL
-  email            : "oris@physics.wisc.edu" 
+  email            : "oris ~at~ physics [dot] wisc {dot} edu" 
 
   # Academic websites
   academia         : # URL
