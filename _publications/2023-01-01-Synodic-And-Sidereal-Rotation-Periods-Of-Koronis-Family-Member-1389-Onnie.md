@@ -1,6 +1,7 @@
 ---
 title: "Synodic And Sidereal Rotation Periods Of Koronis Family Member (1389) Onnie"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Synodic-And-Sidereal-Rotation-Periods-Of-Koronis-Family-Member-1389-Onnie
 date: 2023-01-01
 venue: 'Minor Planet Bulletin'

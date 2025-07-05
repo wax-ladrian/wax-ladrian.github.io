@@ -1,6 +1,7 @@
 ---
 title: "Lightcurves and Derived Results for Koronis Family Member (5139) Rumoi Including a Discussion of Measurements for Epochs Analysis"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Lightcurves-and-Derived-Results-for-Koronis-Family-Member-5139-Rumoi-Including-a-Discussion-of-Measurements-for-Epochs-Analysis
 date: 2024-01-01
 venue: 'Minor Planet Bulletin'

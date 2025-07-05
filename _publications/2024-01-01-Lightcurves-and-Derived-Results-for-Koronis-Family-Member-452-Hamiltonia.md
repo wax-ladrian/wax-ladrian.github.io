@@ -1,6 +1,7 @@
 ---
 title: "Lightcurves and Derived Results for Koronis Family Member (452) Hamiltonia"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Lightcurves-and-Derived-Results-for-Koronis-Family-Member-452-Hamiltonia
 date: 2024-01-01
 venue: 'Minor Planet Bulletin'
