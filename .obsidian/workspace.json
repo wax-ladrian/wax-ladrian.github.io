@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-07-31-UW-Madison-spots.md",
+                "file": "_pages/404.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-31-UW-Madison-spots"
+              "title": "404"
             }
           }
         ]
@@ -167,18 +167,22 @@
   },
   "active": "c75d96b380256ab3",
   "lastOpenFiles": [
+    "_pages/about.md",
+    "_pages/archive-layout-with-content.md",
+    "_posts/2025-07-31-UW-Madison-spots.md",
+    "images/image-alignment-1200x4002.jpg",
+    "images/testing.png",
+    "_pages/guide-page.md",
+    "_posts/2199-01-01-future-post.md",
     "images/IMG_3094.jpeg",
     "images/IMG_3095.jpeg",
     "images/IMG_3096.jpeg",
     "_posts/2999-08-14-blog-post-4.md",
-    "_posts/2025-07-31-UW-Madison-spots.md",
-    "_posts/2199-01-01-future-post.md",
     "_pages/classes.md",
     "_pages/cv.md",
     "_pages/music_and_art.md",
     "files/paper1.pdf",
     "files/slides3.pdf",
-    "_pages/about.md",
     "_pages/cv-json.md"
   ]
 }

@@ -1,5 +1,5 @@
 ---
-title: UW-Madison spots
+title: 'UW-Madison spots'
 date: 2025-07-31
 permalink: /posts/2025/07/UW-Madison-spots/
 tags:
@@ -16,7 +16,8 @@ I promised myself that I would not be like most graduate students who do not kno
 
 I found this space in the 4th floor of Memorial Library that is this nice lounge with sofas and cubicles for studying. 
 
-![](IMG_3096.jpeg)
-![](IMG_3095.jpeg)
-![](IMG_3094.jpeg)
+![](/images/IMG_3096.jpeg)
+![](/images/IMG_3095.jpeg)
+![](/images/IMG_3094.jpeg)
 
+![[images/testing.png]]
