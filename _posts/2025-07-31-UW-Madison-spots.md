@@ -20,4 +20,4 @@ I found this space in the 4th floor of Memorial Library that is this nice lounge
 ![](/images/IMG_3095.jpeg)
 ![](/images/IMG_3094.jpeg)
 
-![[images/testing.png]]
+![](/images/testing.png)
