@@ -16,7 +16,7 @@ I promised myself that I would not be like most graduate students who do not kno
 
 I found this space in the 4th floor of Memorial Library that is this nice lounge with sofas and cubicles for studying. 
 
-![[IMG_3096.jpeg]]
-![[IMG_3095.jpeg]]
-![[IMG_3094.jpeg]]
+![](IMG_3096.jpeg)
+![](IMG_3095.jpeg)
+![](IMG_3094.jpeg)
 
