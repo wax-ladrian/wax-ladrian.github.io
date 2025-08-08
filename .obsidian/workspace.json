@@ -11,10 +11,14 @@
             "id": "423b61a8180ad62f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_pages/astrophotography.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "astrophotography"
             }
           }
         ]
@@ -163,6 +167,7 @@
   },
   "active": "423b61a8180ad62f",
   "lastOpenFiles": [
+    "_posts/2025-07-31-UW-Madison-spots.md",
     "_pages/about.md",
     "_pages/music_and_art.md",
     "_pages/astrophotography.md",
@@ -181,7 +186,6 @@
     "images/Pasted.md",
     "_posts/2999-08-14-blog-post-4.md",
     "_posts/2199-01-01-future-post.md",
-    "_posts/2025-07-31-UW-Madison-spots.md",
     "_pages/archive-layout-with-content.md",
     "_pages/guide-page.md",
     "_pages/classes.md",
