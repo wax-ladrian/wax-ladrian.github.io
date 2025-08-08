@@ -1,5 +1,5 @@
 ---
-title: Music and Art
+title: Astrophotography
 permalink: /astrophotography/
 author_profile: false
 redirect_from:
@@ -7,8 +7,6 @@ redirect_from:
   - /stars
   - /photos
 ---
-# Astrophotography
-
 Here some samples of my astrophotography. I get to do it less lately, but always try to get my camera out if the opportunity shows up! Also, some of these are taken with my iPhone which is just insane... technology nowadays is truly impressive.
 
 ## MIT Wallace Astrophysical Observatory
