@@ -14,3 +14,7 @@ From Spring 2024 to the end of Spring 2025 I was part of the [MIT-Wellesley Toon
 
 ## Fall 2022
 I participated in a musical back in Fall 2022, "Jekyll & Hyde", put up by the [MIT Musical Theater Guild](https://mtg.mit.edu/8/).
+
+# Photography
+
+You can check some of my astrophotography work [here](/astrophotography/)

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4953e641cb5ba34",
+        "id": "2ddd6eff2a910076",
         "type": "tabs",
         "children": [
           {
-            "id": "129b2c2eef6a44f3",
+            "id": "423b61a8180ad62f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pasted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 522.5
   },
   "right": {
     "id": "e7160dddd36a83c8",
@@ -161,22 +161,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a7d4abfc27e2c0d",
+  "active": "423b61a8180ad62f",
   "lastOpenFiles": [
     "_pages/about.md",
-    "_pages/archive-layout-with-content.md",
-    "_posts/2025-07-31-UW-Madison-spots.md",
-    "images/image-alignment-1200x4002.jpg",
-    "images/testing.png",
-    "_pages/guide-page.md",
-    "_posts/2199-01-01-future-post.md",
-    "images/IMG_3094.jpeg",
-    "images/IMG_3095.jpeg",
-    "images/IMG_3096.jpeg",
+    "_pages/music_and_art.md",
+    "_pages/astrophotography.md",
+    "images/astrophots/ast-pho20250808102630.png",
+    "images/astrophots/ast-pho20250808102517.png",
+    "images/astrophots/ast-pho20250808102348.png",
+    "images/astrophots/northern-lights.jpeg",
+    "images/astrophots",
+    "images/astrophots/ast-pho20250808104300.png",
+    "images/IMG_2046.dng",
+    "images/astrophots/ast-pho20250808103709.png",
+    "images/astrophots/ast-pho20250808103633.png",
+    "images/astrophots/ast-pho20250808103617.png",
+    "images/astrophots/ast-pho20250808103549.png",
+    "images/astrophots/ast-pho20250808103523.png",
+    "images/Pasted.md",
     "_posts/2999-08-14-blog-post-4.md",
+    "_posts/2199-01-01-future-post.md",
+    "_posts/2025-07-31-UW-Madison-spots.md",
+    "_pages/archive-layout-with-content.md",
+    "_pages/guide-page.md",
     "_pages/classes.md",
     "_pages/cv.md",
-    "_pages/music_and_art.md",
     "files/paper1.pdf",
     "files/slides3.pdf",
     "_pages/cv-json.md"
