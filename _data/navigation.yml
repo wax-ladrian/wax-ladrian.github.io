@@ -30,6 +30,8 @@ main:
   - title: "Classes"
     url: /classes/
 
+  - title: "Teaching"
+    url: /teaching/
   # - title: "CV"
   #   url: /cv-json/
     
