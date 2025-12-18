@@ -1,5 +1,5 @@
 ---
-title: 'My Physics 772 Project - A Particle Shower Simulator'
+title: My Physics 772 Project - A Particle Shower Simulator
 date: 2025-12-17
 permalink: /projects/2025/12/particle-simulator/
 tags:
