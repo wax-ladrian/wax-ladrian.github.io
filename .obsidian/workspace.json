@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9d6a77ed975e849",
+        "id": "113dcd3ca74d6956",
         "type": "tabs",
         "children": [
           {
-            "id": "1b62b22db0ddeb10",
+            "id": "4798e07faa54942a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,10 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b62b22db0ddeb10",
+  "active": "4798e07faa54942a",
   "lastOpenFiles": [
-    "_posts/2025-10-16-science-square.md",
     "_posts/2025-12-17-Particle-Shower-Simulators.md",
+    "_posts/2025-10-16-science-square.md",
+    "_posts/2199-01-01-future-post.md",
     "_posts/2025-08-13-internet-devours-trust.md",
     "_posts/2025-08-11-road-trip-to-Madison.md",
     "images/example_shower.html",
@@ -186,7 +187,6 @@
     "images/Pas20250915084010.png",
     "_posts/2025-07-31-UW-Madison-spots.md",
     "_pages/cv.md",
-    "_posts/2199-01-01-future-post.md",
     "images/Pas20250811114510.png",
     "images/Pas20250811114520.png",
     "images/Pas20250811114459.png",
