@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "113dcd3ca74d6956",
+        "id": "bb7768d271d6ede5",
         "type": "tabs",
         "children": [
           {
-            "id": "4798e07faa54942a",
+            "id": "2d70689c0b18dc6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2025-12-17-Particle-Shower-Simulators.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-12-17-Particle-Shower-Simulators"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 522.5
+    "width": 249.5
   },
   "right": {
     "id": "e7160dddd36a83c8",
@@ -166,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4798e07faa54942a",
+  "active": "2d70689c0b18dc6c",
   "lastOpenFiles": [
     "_posts/2025-12-17-Particle-Shower-Simulators.md",
     "_posts/2025-10-16-science-square.md",
