@@ -22,6 +22,7 @@ Experiments in modern physics, with discussion of statistical uncertainties and 
 ### **PHYSICS 321 — ELECTRIC CIRCUITS AND ELECTRONICS**
 Number of sessions: 2 (6 hrs).
 Number of students: 33.
+Class Evaluations (4.38/5.00) [here](https://drive.google.com/file/d/1p9C2qM6mU2H2PgrV-f_k0t5v1nOpKzPl/view?usp=sharing)
 Faculty: [Dan Mccammon](https://www.physics.wisc.edu/directory/mccammon-dan/).
 
 # Massachusetts Institute of Technology
