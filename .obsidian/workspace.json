@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e9355955a00f195",
+            "id": "05e50a92d79da819",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 252.5
   },
   "right": {
     "id": "e7160dddd36a83c8",
@@ -166,10 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e9355955a00f195",
+  "active": "05e50a92d79da819",
   "lastOpenFiles": [
+    "_pages/archive-layout-with-content.md",
+    "_pages/about.md",
     "_pages/research_description.md",
-    "_pages/research_description.md",
+    "_posts/2025-07-31-UW-Madison-spots.md",
+    "images/Past20260303121547.png",
+    "images/Past20260303121241.png",
     "_pages/markdown.md",
     "_pages/music_and_art.md",
     "_pages/non-menu-page.md",
@@ -190,19 +194,14 @@
     "images/Pas20250915084030.png",
     "images/Pas20250915084023.png",
     "images/Pas20250915084010.png",
-    "_posts/2025-07-31-UW-Madison-spots.md",
     "_pages/cv.md",
     "images/Pas20250811114510.png",
-    "images/Pas20250811114520.png",
-    "images/Pas20250811114459.png",
     "_posts/2999-08-14-blog-post-4.md",
     "_posts/2199-01-01-future-post 1.md",
     "_pages/astrophotography.md",
-    "_pages/about.md",
     "images/astrophots",
     "images/IMG_2046.dng",
     "images/Pasted.md",
-    "_pages/archive-layout-with-content.md",
     "_pages/guide-page.md",
     "_pages/classes.md",
     "files/paper1.pdf",

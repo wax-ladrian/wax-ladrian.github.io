@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # Who am I
-Hi all, I’m Orisvaldo (I often go by Oris) and I am currently a first year PhD student at UW-Madison's Physics Department. Once I am in a research group you will be able to read a lot about it here, but for now if you want to see which classes I am taking, you can check the [classes page](/classes/). I have been selected as a [2025-26 Wonders of Physics Outreach Fellow](https://www.physics.wisc.edu/outreach/wonders-of-physics-outreach-fellows/) so expect lots of outreach entries in my blog entries!
+Hi all, I’m Orisvaldo (I often go by Oris) and I am currently a first year PhD student at UW-Madison's Physics Department. I'm working in Prof. Vandenbroucke's CTAO group, you can read more about my research [here](/research/). If you want to see which classes I am taking, you can check the [classes page](/classes/). I have been selected as a [2025-26 Wonders of Physics Outreach Fellow](https://www.physics.wisc.edu/outreach/wonders-of-physics-outreach-fellows/) so expect lots of outreach entries in my blog entries!
 
 # Previously
 I did my undergraduate studies at MIT (Class of 2023), B.S. in Physics with minors in Astronomy and Mathematics.
