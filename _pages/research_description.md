@@ -4,7 +4,6 @@ title: CTAO and pSCT
 author_profile: false
 redirect_from:
   - /lab/
-  - /research/
   - /psct/
   - /ctao/
 ---
