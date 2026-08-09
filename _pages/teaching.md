@@ -8,16 +8,10 @@ author_profile: true
 # University of Wisconsin-Madison
 ## Spring 2026
 ### **PHYSICS 307 — INTERMEDIATE LABORATORY-MECHANICS AND MODERN PHYSICS**
-
 Number of sessions: 2 (8 hrs).
-
 Number of students: 24
-
+Class Evaluations (3.98/5.00) [here](https://drive.google.com/file/d/1iXsbxdSV38pfu3ryqGzScm-HjbkSHYcg/view?usp=sharing)
 Faculty: [Lu Lu](https://www.physics.wisc.edu/directory/lu-lu/)
-
-Experiments in modern physics, with discussion of statistical uncertainties and error analysis. Propagation of error. Available labs include gamma-ray spectroscopy, X-ray physics and diffraction, blackbody radiation, and Cavendish measurement of the gravitational constant G.
-
-
 ## Fall 2025
 ### **PHYSICS 321 — ELECTRIC CIRCUITS AND ELECTRONICS**
 Number of sessions: 2 (6 hrs).
@@ -27,4 +21,4 @@ Faculty: [Dan Mccammon](https://www.physics.wisc.edu/directory/mccammon-dan/).
 
 # Massachusetts Institute of Technology
 
-You can check my [CV](/cv/) to see which classes I help teach at MIT during Undegraduate.
+You can check my [CV](/cv/) to see which classes I help teach at MIT during Undergraduate and in my 2 years as a lab instructor at [MIT's Junior Lab](https://web.mit.edu/8.13/www/index.shtml).

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/research_description.md",
+                "file": "_pages/404.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "research_description"
+              "title": "404"
             }
           }
         ]
@@ -168,18 +168,27 @@
   },
   "active": "05e50a92d79da819",
   "lastOpenFiles": [
-    "_pages/archive-layout-with-content.md",
     "_pages/about.md",
-    "_pages/research_description.md",
-    "_posts/2025-07-31-UW-Madison-spots.md",
-    "images/Past20260303121547.png",
-    "images/Past20260303121241.png",
+    "_pages/archive-layout-with-content.md",
+    "_pages/astrophotography.md",
+    "_pages/classes.md",
+    "_pages/cv.md",
+    "_pages/cv-json.md",
+    "_pages/guide-page.md",
     "_pages/markdown.md",
     "_pages/music_and_art.md",
     "_pages/non-menu-page.md",
+    "_pages/research_description.md",
+    "_pages/sitemap.md",
+    "_pages/teaching.md",
+    "_projs/2999-08-14-blog-post-4.md",
+    "_projs/2199-01-01-future-post.md",
+    "_posts/2199-01-01-future-post.md",
+    "_posts/2025-07-31-UW-Madison-spots.md",
+    "images/Past20260303121547.png",
+    "images/Past20260303121241.png",
     "_posts/2025-12-17-Particle-Shower-Simulators.md",
     "_posts/2025-10-16-science-square.md",
-    "_posts/2199-01-01-future-post.md",
     "_posts/2025-08-13-internet-devours-trust.md",
     "_posts/2025-08-11-road-trip-to-Madison.md",
     "images/example_shower.html",
@@ -194,18 +203,11 @@
     "images/Pas20250915084030.png",
     "images/Pas20250915084023.png",
     "images/Pas20250915084010.png",
-    "_pages/cv.md",
     "images/Pas20250811114510.png",
     "_posts/2999-08-14-blog-post-4.md",
-    "_posts/2199-01-01-future-post 1.md",
-    "_pages/astrophotography.md",
     "images/astrophots",
     "images/IMG_2046.dng",
-    "images/Pasted.md",
-    "_pages/guide-page.md",
-    "_pages/classes.md",
     "files/paper1.pdf",
-    "files/slides3.pdf",
-    "_pages/cv-json.md"
+    "files/slides3.pdf"
   ]
 }
