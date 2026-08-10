@@ -13,7 +13,7 @@ There is currently a prototype Schwarzschild-Couder Telescope (pSCT) at the Fred
 
 ![](/images/Past20260303121241.png)
 
-Here at UW-Madison we are doing the mass calibration and assembly of the camera modules, the smallest independent divisions of the camera which will be assembled together in the pSCT for a full camera by Fall 2026, starting with 1 sector (out of 9) by Summer 2026. Here's an image of a module (1)
+Here at UW-Madison we are doing the mass calibration and assembly of the camera modules, the smallest independent divisions of the camera which will be assembled together in the pSCT for a full camera. One sub-field has already been partially installed in the camera. Here's an image of a module (1)
 
 ![](/images/Past20260303121547.png)
 
@@ -21,7 +21,17 @@ These new modules feature improved electronics design for reduced electrical noi
 
 Once the updated camera is installed, I will be working with the data of the pSCT.
 
+Here's a photo of the pSCT.
+![](/images/pSCT_photo1.jpeg)
 
-All images in here came from the following reference.
+With one sub-field, some of the events look like
+![](/images/run400056_gbev1072_sr5_srev1072_ani.gif)
+
+![](/images/run400182_gbev87487_sr6_srev1595_ani.gif)
+
+![](/images/run400087_gbev9234_sr0_srev9234_ani-2.gif)
+
+
+All images in here came from the following reference or from pSCT recent presentations.
 
 (1) Ambrosi, Giovanni, et al. “Design and Performance of the Upgraded Prototype Schwarzschild-Couder Telescope Camera Module.” arXiv:2512.12529, arXiv, 14 Dec. 2025. _arXiv.org_, [https://doi.org/10.48550/arXiv.2512.12529](https://doi.org/10.48550/arXiv.2512.12529).

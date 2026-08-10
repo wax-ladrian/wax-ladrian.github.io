@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/404.md",
+                "file": "_pages/research_description.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "404"
+              "title": "research_description"
             }
           }
         ]
@@ -168,6 +168,12 @@
   },
   "active": "05e50a92d79da819",
   "lastOpenFiles": [
+    "images/run400087_gbev9234_sr0_srev9234_ani-2.gif",
+    "images/run400182_gbev87487_sr6_srev1595_ani.gif",
+    "images/run400056_gbev1072_sr5_srev1072_ani.gif",
+    "images/pSCT_photo1 1.jpeg",
+    "images/pSCT_photo1.jpeg",
+    "_pages/404.md",
     "_pages/about.md",
     "_pages/archive-layout-with-content.md",
     "_pages/astrophotography.md",
@@ -195,16 +201,10 @@
     "README.md",
     "CONTRIBUTING.md",
     "markdown_generator/readme.md",
-    "_posts/2025-09-15-bike-around-monona.md",
     "images/Pas20250915084129.png",
     "images/Pas20250915084118.png",
     "images/Pas20250915084057.png",
     "images/Past20250915084037.png",
-    "images/Pas20250915084030.png",
-    "images/Pas20250915084023.png",
-    "images/Pas20250915084010.png",
-    "images/Pas20250811114510.png",
-    "_posts/2999-08-14-blog-post-4.md",
     "images/astrophots",
     "images/IMG_2046.dng",
     "files/paper1.pdf",
