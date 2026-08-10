@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a1e43a4cccbf2ec",
+        "id": "97f12a7a1cd22680",
         "type": "tabs",
         "children": [
           {
-            "id": "aad494ae30912811",
+            "id": "bad4a38736941a94",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "I am currently a first year PhD student at UW-Madison's Physics Department.",
+                "query": "I am an MIT Class of 2023, B.S. in Physics with minors in Astronomy and Mathematics.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aad494ae30912811",
+  "active": "1a7d4abfc27e2c0d",
   "lastOpenFiles": [
     "_pages/about.md",
     "README.md",
