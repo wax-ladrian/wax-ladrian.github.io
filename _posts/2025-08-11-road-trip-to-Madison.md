@@ -53,7 +53,7 @@ In Chicago, we stopped at a garage near Andres’ place. Andres was at work and 
 
 Andres also passed by to drop to us his keys to the apt, since he was going out with some people after work:
 
-![[images/Pas20250811114435.png]]
+![](images/Pas20250811114435.png)
 
 After the café, Charlotte and I went to get some to-go dinner and found a nice spot by the river to eat and chat
 
