@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42fb4115d7008a37",
+        "id": "5a1e43a4cccbf2ec",
         "type": "tabs",
         "children": [
           {
-            "id": "ed6340c6c6326095",
+            "id": "aad494ae30912811",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pasted",
+                "query": "I am currently a first year PhD student at UW-Madison's Physics Department.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,28 +163,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed6340c6c6326095",
+  "active": "aad494ae30912811",
   "lastOpenFiles": [
-    "_posts/2025-08-11-road-trip-to-Madison.md",
+    "_pages/about.md",
+    "README.md",
+    "_pages/teaching.md",
+    "_pages/sitemap.md",
     "_pages/research_description.md",
+    "_pages/non-menu-page.md",
+    "_pages/music_and_art.md",
+    "_pages/markdown.md",
+    "_pages/guide-page.md",
+    "_pages/cv-json.md",
+    "_pages/cv.md",
+    "_pages/classes.md",
+    "_pages/astrophotography.md",
+    "_pages/archive-layout-with-content.md",
+    "_posts/2025-08-11-road-trip-to-Madison.md",
     "images/run400087_gbev9234_sr0_srev9234_ani-2.gif",
     "images/run400182_gbev87487_sr6_srev1595_ani.gif",
     "images/run400056_gbev1072_sr5_srev1072_ani.gif",
     "images/pSCT_photo1 1.jpeg",
     "images/pSCT_photo1.jpeg",
     "_pages/404.md",
-    "_pages/about.md",
-    "_pages/archive-layout-with-content.md",
-    "_pages/astrophotography.md",
-    "_pages/classes.md",
-    "_pages/cv.md",
-    "_pages/cv-json.md",
-    "_pages/guide-page.md",
-    "_pages/markdown.md",
-    "_pages/music_and_art.md",
-    "_pages/non-menu-page.md",
-    "_pages/sitemap.md",
-    "_pages/teaching.md",
     "_projs/2999-08-14-blog-post-4.md",
     "_projs/2199-01-01-future-post.md",
     "_posts/2199-01-01-future-post.md",
@@ -194,7 +196,6 @@
     "_posts/2025-10-16-science-square.md",
     "_posts/2025-08-13-internet-devours-trust.md",
     "images/example_shower.html",
-    "README.md",
     "CONTRIBUTING.md",
     "markdown_generator/readme.md",
     "images/Pas20250915084129.png",

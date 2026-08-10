@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 # University of Wisconsin-Madison
+## Fall 2026
+### **PHYSICS 721 — Theoretical Physics-Electrodynamics**
+Electrostatics, magnetostatics, Green functions, boundary value problems, macroscopic media, Maxwell's equations, the stress tensor and conservation laws, electromagnetic waves, wave propagation, dispersion, waveguides, radiation, multipole expansions, diffraction and scattering, special relativity, covariance of Maxwell's equations, Lienard-Wiechert potentials, radiation by accelerated charges. Knowledge of electrodynamics (such as PHYSICS 322) strongly encouraged.
+Faculty: [Paul Terry](https://www.physics.wisc.edu/directory/terry-paul/)
+
 ## Spring 2026
 ### **PHYSICS 736 — EXPERIMENTAL METHODS IN NUCLEAR-, PARTICLE-, AND ASTROPHYSICS**
 
