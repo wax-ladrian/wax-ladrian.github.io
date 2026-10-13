@@ -1,5 +1,5 @@
 ---
-title: Blog Post number 4
+title: '"This Is How We Get Better" - 5 Years Anniversary'
 date: 2026-10-08
 permalink: /posts/2026/10/tihwgb-5yrs/
 tags:
@@ -12,7 +12,7 @@ On October 8th, 2021, the Narcissist Cookbook (the artistic name of Matt Johnson
   
 I think, in terms of forming the person I am, music with wonderfully written lyrics are incredibly important, and on that category, “This Is How We Get Better” always comes immediately to mind. In that album (and not only on that album), Matt shows a level of vulnerability and understanding of human nature that makes it deeply resonate with me, no matter how many times I listen to. I can confidently say that I have listen to this album hundreds of times, and (of what I can remember) have cried at least twice to the music on it. I highly recommend you to listen to it, it is a wonderful piece of poetry wrapped in brilliant melody.
 
-The first reason to write this email is to tell people to go listen to “This Is How We Get Better”*, the second reason is to tell you to go listen to the first (and probably only) release on Bandcamp with my name on it! First, a timeline:
+The first reason to write this email is to tell people to go listen to “This Is How We Get Better”^, the second reason is to tell you to go listen to the first (and probably only) release on Bandcamp with my name on it! First, a timeline:
 
 - In Spring 2023 (?) I was introduced to the music of The Narcissist Cookbook for the first time by my friend Charlotte. She sent me some songs of their EP “Eden Disorder,” which is still her favorite album from tNC!
 - In Summer 2023, I saw them live for the first time, and I have gone to see them live every summer since!
@@ -38,3 +38,5 @@ Here is the whole gang in the studio!
 This is all, I just wanted to share this 😊 if you got to this point in the post… woooow that’s so cool, ty for reading!! 
 
 Toonsluv 💜
+
+^ And all else! Go listen to tNC! I recommend _everything_ but at least [MOTH](https://open.spotify.com/album/30w8BgNo4f9FmdyadEeSoh?si=JyprhdpIQpS_8LxYV1jVKA "https://open.spotify.com/album/30w8BgNo4f9FmdyadEeSoh?si=JyprhdpIQpS_8LxYV1jVKA"), [This Is How We Get Better](https://open.spotify.com/album/677DDXZPYZLzkL1gCyRfIg?si=P5KTQhMlQwGX4QzLG1_tdA "https://open.spotify.com/album/677DDXZPYZLzkL1gCyRfIg?si=P5KTQhMlQwGX4QzLG1_tdA"), [Eden Disorder](https://open.spotify.com/album/7FQvWQe6c5U8RzsnqLACbP?si=SdbL_SNyS4mFLmCbol8A9w "https://open.spotify.com/album/7FQvWQe6c5U8RzsnqLACbP?si=SdbL_SNyS4mFLmCbol8A9w"), and MYTH (sides [One](https://open.spotify.com/album/0J4na1ASii5IUGLn3dG8eV?si=HFjpGSXHTdGsqJIrUydt0w "https://open.spotify.com/album/0J4na1ASii5IUGLn3dG8eV?si=HFjpGSXHTdGsqJIrUydt0w") and [Two](https://open.spotify.com/album/5D2PEVJJmTxZbpnH7vEjPS?si=Tf-TCG3nQQSqhnRB8SqAIw "https://open.spotify.com/album/5D2PEVJJmTxZbpnH7vEjPS?si=Tf-TCG3nQQSqhnRB8SqAIw"))
