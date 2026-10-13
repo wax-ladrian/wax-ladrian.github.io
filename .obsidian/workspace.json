@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97f12a7a1cd22680",
+        "id": "d6c8ff75ad64b2d2",
         "type": "tabs",
         "children": [
           {
-            "id": "bad4a38736941a94",
+            "id": "2cf5f480a853d2a7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 395.19921875
   },
   "right": {
     "id": "e7160dddd36a83c8",
@@ -162,8 +164,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a7d4abfc27e2c0d",
+  "active": "2cf5f480a853d2a7",
   "lastOpenFiles": [
+    "_posts/2999-08-14-tihwgb-5yr-anniversary.md",
+    "_posts/2999-08-14-blog-post-4.md",
+    "images/Past20261013000450.png",
+    "images/Past20261013000510.png",
+    "images/Past20261013000410.png",
+    "images/Past20261013000411.png",
+    "images/Past20261013000320.png",
+    "_posts/2026-10-06-2026-Physics-Nobel-Prize.md",
+    "_posts/2025-07-31-UW-Madison-spots.md",
+    "_posts/2025-08-11-road-trip-to-Madison.md",
+    "_posts/2025-08-13-internet-devours-trust.md",
+    "_posts/2025-09-15-bike-around-monona.md",
+    "_posts/2025-10-16-science-square.md",
+    "_posts/2025-12-17-Particle-Shower-Simulators.md",
+    "_posts/2199-01-01-future-post.md",
+    "images/Past20261012235420.png",
     "_pages/about.md",
     "README.md",
     "_pages/teaching.md",
@@ -178,28 +196,12 @@
     "_pages/classes.md",
     "_pages/astrophotography.md",
     "_pages/archive-layout-with-content.md",
-    "_posts/2025-08-11-road-trip-to-Madison.md",
     "images/run400087_gbev9234_sr0_srev9234_ani-2.gif",
     "images/run400182_gbev87487_sr6_srev1595_ani.gif",
     "images/run400056_gbev1072_sr5_srev1072_ani.gif",
     "images/pSCT_photo1 1.jpeg",
-    "images/pSCT_photo1.jpeg",
     "_pages/404.md",
-    "_projs/2999-08-14-blog-post-4.md",
-    "_projs/2199-01-01-future-post.md",
-    "_posts/2199-01-01-future-post.md",
-    "_posts/2025-07-31-UW-Madison-spots.md",
-    "images/Past20260303121547.png",
-    "images/Past20260303121241.png",
-    "_posts/2025-12-17-Particle-Shower-Simulators.md",
-    "_posts/2025-10-16-science-square.md",
-    "_posts/2025-08-13-internet-devours-trust.md",
     "images/example_shower.html",
-    "CONTRIBUTING.md",
-    "markdown_generator/readme.md",
-    "images/Pas20250915084129.png",
-    "images/Pas20250915084118.png",
-    "images/Pas20250915084057.png",
     "images/astrophots",
     "images/IMG_2046.dng",
     "files/paper1.pdf",
